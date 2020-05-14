@@ -1,1 +1,1 @@
-![](img/Browser-Sync-Working.png)
+![](src/img/Browser-Sync-Working.png)
